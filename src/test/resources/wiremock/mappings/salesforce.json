@@ -1,0 +1,15 @@
+{
+	"request": 
+	{
+		"urlPath": "/services/data/v56.0/sobjects/Instruction",
+		"method": "POST"
+	
+	},
+	"response": 
+	{
+		"status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        }
+	}
+}
